@@ -1,0 +1,14 @@
+Top 10 Indep Varibale
+
+Simple Auto Regression---R2core with Top 10
+
+
+
+Feature SCalling ---Auto Regression---R2core with Top 10
+
+
+Outlier Removal (Tech 1 +2 -) + Feature Scalling+Auto Regression---R2core with Top 10
+
+
+
+Otimizatio in Auto Regression 
